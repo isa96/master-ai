@@ -1,0 +1,6 @@
+*__pycache__/*
+
+Fuzzy/paper/dataset/raw/*
+CVL/datasets/wbc/raw/*
+CVL/datasets/wbc/clean/*
+DS/mlruns/*
